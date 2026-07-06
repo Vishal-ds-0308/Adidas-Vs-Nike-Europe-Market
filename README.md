@@ -1,5 +1,5 @@
 # Adidas Vs Nike Europe Market
-End of the project you will get to know how Adidas is overtaking the Nike brand in Europe market
+Power BI | Data modeling | Python | Sql
 # 👟 Adidas vs Nike | Europe Market Intelligence Dashboard
 
 > A Business Intelligence Case Study analyzing how Adidas gained momentum over Nike across Europe's key markets using Power BI.
